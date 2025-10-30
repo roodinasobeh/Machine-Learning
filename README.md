@@ -23,7 +23,8 @@ are trained across various $K$ values ($1, 3, 5, 7, 9, 11, 15, 20$).
 The optimal $K$ value (which achieved $100\%$ accuracy in our run) is identified.
 A plot of Accuracy vs. $K$ is generated for visual analysis.
 
-# 4- Logistic RegressionA Multinomial Logistic Regression model is trained ($\max\_iter=1000$).
+# 4- Logistic Regression :
+A Multinomial Logistic Regression model is trained ($\max\_iter=1000$).
 The model's Coefficients are printed and interpreted to assess feature importance (e.g., how petal length influences classification).
 
 # 5- Model ComparisonPerformance
