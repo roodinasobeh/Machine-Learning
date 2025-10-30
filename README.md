@@ -43,7 +43,11 @@ Choosing the right model depends on data structure, interpretability needs, and 
 
 # 🧩 Technologies Used
 Python 3.11
+
 scikit-learn
+
 numpy
+
 pandas
+
 matplotlib
